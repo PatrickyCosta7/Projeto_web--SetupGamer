@@ -1,0 +1,55 @@
+{
+  "gpus": {
+    "low": [
+      "NVIDIA GTX 1050 Ti",
+      "NVIDIA GTX 1650",
+      "AMD Radeon RX 6500 XT"
+    ],
+    "mid": [
+      "NVIDIA RTX 3060",
+      "NVIDIA RTX 4060",
+      "AMD Radeon RX 6700 XT"
+    ],
+    "high": [
+      "NVIDIA RTX 3070",
+      "NVIDIA RTX 4070",
+      "AMD Radeon RX 6800 XT"
+    ],
+    "ultra": [
+      "NVIDIA RTX 3080",
+      "NVIDIA RTX 4080",
+      "NVIDIA RTX 4090"
+    ]
+  },
+  "cpus": {
+    "low": [
+      "Intel i3-10100",
+      "Intel i3-12100",
+      "AMD Ryzen 3 3100"
+    ],
+    "mid": [
+      "Intel i5-12400",
+      "Intel i7-11700K",
+      "AMD Ryzen 5 5600X"
+    ],
+    "high": [
+      "Intel i7-12700K",
+      "Intel i7-13700K",
+      "AMD Ryzen 7 7700X"
+    ]
+  },
+  "rams": {
+    "low": [
+      "8GB DDR4",
+      "8GB DDR5"
+    ],
+    "mid": [
+      "16GB DDR4",
+      "16GB DDR5"
+    ],
+    "high": [
+      "32GB DDR4",
+      "32GB DDR5"
+    ]
+  }
+}

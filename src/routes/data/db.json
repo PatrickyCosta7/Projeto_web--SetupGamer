@@ -1,0 +1,201 @@
+{
+  "users": [
+    {
+      "id": "1763575118381",
+      "name": "Patricki",
+      "email": "patrickicosta0@gmail.com",
+      "password": "$2a$10$YvTFS3XBFsvP5KMSwtzNpe/A48NYY3eoHCw2qiA86uA1f5gxjmZ0u",
+      "createdAt": "2025-11-19T17:58:38.381Z"
+    },
+    {
+      "id": "1763575433479",
+      "name": "Teste",
+      "email": "teste@gmail.com",
+      "password": "$2a$10$/rvWyXsRsZ14ZgFAbcFn2O9w1Ykwc7beWD7c.5ljbaUVWt1Oe.rkq",
+      "createdAt": "2025-11-19T18:03:53.479Z"
+    },
+    {
+      "id": "1764020374034",
+      "name": "patr",
+      "email": "patr@gmail.com",
+      "password": "$2a$10$FvIJGwVvYhv6AmoWp07mLuvSgEgFhTW85bSz10O965Lins6AVwD..",
+      "createdAt": "2025-11-24T21:39:34.034Z"
+    },
+    {
+      "id": "1764098375261",
+      "name": "Patricki Hernandes da Costa",
+      "email": "patrickicosta1@gmail.com",
+      "password": "$2a$10$uiv.FWtboIhHD73C9rAtq.znOk1xXPmICAF8gj408jHj1Uyj3ptDK",
+      "createdAt": "2025-11-25T19:19:35.261Z"
+    }
+  ],
+  "setups": [
+    {
+      "id": "1763575455948",
+      "userId": "1763575433479",
+      "gameId": "19301",
+      "gameName": "Counter-Strike",
+      "components": [
+        {
+          "type": "GPU",
+          "model": "AMD RX 6700 XT"
+        },
+        {
+          "type": "CPU",
+          "model": "Intel i3-10100"
+        },
+        {
+          "type": "RAM",
+          "model": "8GB DDR4"
+        },
+        {
+          "type": "Storage",
+          "model": "1TB NVMe (sugestão)"
+        }
+      ],
+      "createdAt": "2025-11-19T18:04:15.948Z"
+    },
+    {
+      "id": "1763576086440",
+      "userId": "1763575433479",
+      "gameId": "383516",
+      "gameName": "League of Legends: Wild Rift",
+      "components": [
+        {
+          "type": "GPU",
+          "model": "NVIDIA RTX 3060"
+        },
+        {
+          "type": "CPU",
+          "model": "Intel i3-10100"
+        },
+        {
+          "type": "RAM",
+          "model": "12GB DDR4"
+        },
+        {
+          "type": "Storage",
+          "model": "1TB NVMe (sugestão)"
+        }
+      ],
+      "createdAt": "2025-11-19T18:14:46.441Z"
+    },
+    {
+      "id": "1764017614915",
+      "userId": "1763575433479",
+      "gameId": "326243",
+      "gameName": "Elden Ring",
+      "components": [
+        {
+          "type": "GPU",
+          "model": "AMD RX 6400"
+        },
+        {
+          "type": "CPU",
+          "model": "AMD Ryzen 3 3100"
+        },
+        {
+          "type": "RAM",
+          "model": "12GB DDR4"
+        },
+        {
+          "type": "Storage",
+          "model": "1TB NVMe (sugestão)"
+        }
+      ],
+      "createdAt": "2025-11-24T20:53:34.915Z"
+    },
+    {
+      "id": "1764017653559",
+      "userId": "1763575433479",
+      "gameId": "326243",
+      "gameName": "Elden Ring",
+      "components": [
+        {
+          "type": "GPU",
+          "model": "AMD RX 6400"
+        },
+        {
+          "type": "CPU",
+          "model": "AMD Ryzen 3 3100"
+        },
+        {
+          "type": "RAM",
+          "model": "8GB DDR4"
+        },
+        {
+          "type": "Storage",
+          "model": "1TB NVMe (sugestão)"
+        }
+      ],
+      "createdAt": "2025-11-24T20:54:13.559Z"
+    },
+    {
+      "id": "1764099236198",
+      "userId": "1764098375261",
+      "gameId": "35209",
+      "gameName": "FIFA 2004",
+      "gameImage": "https://media.rawg.io/media/games/437/437675fe9c1fa3d793b5716d3c5aafa1.jpg",
+      "budget": 2000,
+      "tier": "minimum",
+      "components": [
+        {
+          "type": "GPU",
+          "model": "NVIDIA GTX 1650"
+        },
+        {
+          "type": "CPU",
+          "model": "Intel i3-12100"
+        },
+        {
+          "type": "RAM",
+          "model": "8GB DDR4"
+        },
+        {
+          "type": "Storage",
+          "model": "240GB SSD"
+        },
+        {
+          "type": "SO",
+          "model": "Windows 10/11"
+        }
+      ],
+      "estimatedPrice": 4500,
+      "createdAt": "2025-11-25T19:33:56.198Z",
+      "updatedAt": "2025-11-25T19:36:53.766Z"
+    },
+    {
+      "id": "1764106719718",
+      "userId": "1763575118381",
+      "gameId": "4729",
+      "gameName": "Assassin's Creed",
+      "gameImage": "https://media.rawg.io/media/games/0bc/0bcc108295a244b488d5c25f7d867220.jpg",
+      "budget": 5000,
+      "tier": "intermediate",
+      "components": [
+        {
+          "type": "GPU",
+          "model": "NVIDIA RTX 4060"
+        },
+        {
+          "type": "CPU",
+          "model": "AMD Ryzen 5 5600X"
+        },
+        {
+          "type": "RAM",
+          "model": "16GB DDR5"
+        },
+        {
+          "type": "Storage",
+          "model": "512GB NVMe SSD"
+        },
+        {
+          "type": "SO",
+          "model": "Windows 10/11"
+        }
+      ],
+      "estimatedPrice": 8500,
+      "createdAt": "2025-11-25T21:38:39.718Z"
+    }
+  ]
+}
