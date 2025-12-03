@@ -119,6 +119,7 @@ export default function Dashboard() {
 
       <div className="dashboard-footer">
         <p>Siga os passos acima para montar seu PC ideal</p>
+        <p><a href="https://github.com/PatrickyCosta7/Projeto_web--SetupGamer" target="_blank" rel="noopener noreferrer">GitHub do Projeto</a></p>
       </div>
     </div>
   );
